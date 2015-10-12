@@ -1,0 +1,123 @@
+{
+	"allStops": [
+        {
+          "name":"Santa Cruz Metro Lane 1",
+          "latitude":36.970904,
+          "longitude":-122.024789,
+          "busses":[
+            "10",
+            "15",
+            "16",
+            "19",
+            "20"
+          ]
+        },
+        {
+          "name":"Cedar & Walnut",
+          "latitude":36.973509,
+          "longitude":-122.027105,
+          "busses":[
+            "10"
+          ]
+
+        },
+        {
+          "name":"High & Laurent",
+          "latitude":36.977578,
+          "longitude":-122.042175,
+          "busses":[
+            "10"
+          ]
+        },
+        {
+          "name":"Science Hill",
+          "latitude":36.999963,
+          "longitude":-122.062331,
+          "busses":[
+            "10",
+            "12",
+            "15",
+            "16",
+            "19",
+            "20"
+          ]
+        },
+        {
+          "name":"Santa Cruz Metro Center",
+          "latitude":36.970904,
+          "longitude":-122.024789,
+          "busses":[
+            "10",
+            "12",
+            "15",
+            "16",
+            "19",
+            "20"
+          ]
+        },
+        {
+          "name":"41st Ave. & Kings Plaza",
+          "latitude":36.971703,
+          "longitude":-121.965048,
+          "busses":[
+            "12"
+          ]
+        },
+        {
+          "name":"7th Ave. & Bonnie",
+          "latitude":36.964243,
+          "longitude":-121.998375,
+          "busses":[
+            "12"
+          ]
+        },
+        {
+          "name":"Laurel & Pacific",
+          "latitude":36.969341,
+          "longitude":-122.024329,
+          "busses":[
+            "12"
+          ]
+        },
+        {
+          "name":"Bay & Mission",
+          "latitude":36.966894,
+          "longitude":-122.040605,
+          "busses":[
+            "10",
+            "12",
+            "15",
+            "16",
+            "19",
+            "20"
+          ]
+        },
+        {
+          "name":"Pacific Shores",
+          "latitude":36.960876,
+          "longitude":-122.061747,
+          "busses":[
+            "12",
+            "15",
+            "16",
+            "19"
+          ]
+        },
+        {
+          "name":"Bay & High",
+          "latitude":36.976735,
+          "longitude":-122.053780,
+          "busses":[
+            "20"
+          ]
+        },
+        {
+          "name":"Delaware & Swift",
+          "latitude":36.955686,
+          "longitude":-122.048968,
+          "busses":[
+            "20"
+          ]
+        }
+    ]
+}
